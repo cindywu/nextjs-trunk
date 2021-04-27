@@ -10,11 +10,11 @@ export default function Home() {
 
       <main>
         <h1 className="title">
-          Welcome to <a href="https://nextjs.org">Next.js!</a>
+          Trunk
         </h1>
 
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Trunk streamlines literature review for high-performing teams
         </p>
 
         <div className="grid">
@@ -50,12 +50,11 @@ export default function Home() {
 
       <footer>
         <a
-          href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+          href="http://jellypbc.com"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Powered by{' '}
-          <img src="/vercel.svg" alt="Vercel Logo" className="logo" />
+          Trunk is a Jelly Public Benefit Corporation project
         </a>
       </footer>
 
